@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "uni-app",
+  "usingComponents": {
+    "xsuu-swiper": "/components/Xss-swiper/Xsuu-swiper"
+  }
+}
